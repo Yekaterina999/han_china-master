@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_siege_boltshooter">
+  <Footprint replace="">
+    <Square width="10.0" depth="10.0"/>
+    <Height>5.0</Height>
+  </Footprint>
+  <Identity>
+    <Civ>han</Civ>
+    <SpecificName>Shoushe Nu</SpecificName>
+    <Icon>units/han/siege_boltshooter.png</Icon>
+  </Identity>
+  <Pack disable=""/>
+  <Promotion disable=""/>
+  <VisualActor>
+    <Actor>units/han/siege_shoushe.xml</Actor>
+  </VisualActor>
+</Entity>
